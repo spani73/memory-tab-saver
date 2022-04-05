@@ -1,2 +1,4 @@
-# MemCheck-TabSaver-Chrome-Extension
-Continuously checks memory usage and alerts when it is above 90% threshold. Also has a feature to save all tab ULRs in a text document in  a single command
+# tabsSaver
+chrome extension to save all opened tabs url with their title in all opened windows to a text file
+
+To save tabs to the text file, press ALT+l keyboard shortcut in any of chrome windows.
